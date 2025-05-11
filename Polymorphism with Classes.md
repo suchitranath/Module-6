@@ -1,4 +1,4 @@
-# # EX.No:6(d)Python OOP: Polymorphism with Classes
+# # EX.No:6(e)Python OOP: Polymorphism with Classes
 
 ##  AIM
 
